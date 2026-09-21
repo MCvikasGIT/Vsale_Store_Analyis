@@ -64,5 +64,6 @@ Senior Management	    -  Set business strategy and growth plans
 10.Are certain genders buying more specific product categories?
 
 🛠️ Tools Used
-SQL — data querying, aggregation, and analysi
+SQL — data querying, aggregation, and analysis
+
 Excel file for dataset
