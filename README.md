@@ -35,13 +35,18 @@ Without proper insights, the business faces:
 Solving this helps increase revenue, improve service quality, and optimize operations.
 
 👥 Stakeholders
-Stakeholder           -  Why They Need This
+#Stakeholder           -  #Why They Need This
 
 Store Manager	        -  Improve daily operations and sales performance
+
 Inventory Team	      -  Plan stock refilling based on demand
+
 Marketing Team	      -  Target promotions and loyalty programs
+
 Logistics Team	      -  Address delivery delays and optimize routes
+
 Finance Team	        -  Profit analysis and revenue forecasting
+
 Senior Management	    -  Set business strategy and growth plans
 
 
